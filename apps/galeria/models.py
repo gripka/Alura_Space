@@ -7,8 +7,8 @@ from django.contrib.auth.models import User
 class Fotografia (models.Model):
 
     OPCOES_CATEGORIA = [
-        ("NEBULOSA", "Nebulosa"),
-        ("ESTRELA", "Estrela"),
+        ("XVIDEOS", "Xvideos"),
+        ("LEAO", "Leão"),
         ("GALÁXIA", "Galáxia"),
         ("PLANETA", "Planeta"),
         ("LUIZ", "Luiz"),
