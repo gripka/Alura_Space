@@ -10,7 +10,7 @@ class Fotografia (models.Model):
         ("XVIDEOS", "Xvideos"),
         ("LEAO", "Leão"),
         ("GALÁXIA", "Galáxia"),
-        ("PLANETA", "Planeta"),
+        ("POPOPO", "Popopó"),
         ("LUIZ", "Luiz"),
     ]
 
